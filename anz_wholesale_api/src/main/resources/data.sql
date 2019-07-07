@@ -1,0 +1,1 @@
+INSERT into account (id, name) values (1, 'Extend Warranty');
